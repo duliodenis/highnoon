@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Scenes/GameStaging.unity
+  isLoaded: 1
+  isActive: 1
